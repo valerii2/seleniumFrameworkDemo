@@ -1,0 +1,107 @@
+2023-01-12 09:45:46,626 :INFO : test_home_page :Entering name as Name1
+2023-01-12 09:45:46,705 :INFO : test_home_page :Entering email as Email1
+2023-01-12 09:45:46,765 :INFO : test_home_page :Entering password as 1234
+2023-01-12 09:45:46,878 :INFO : test_home_page :Setting gender as Male
+2023-01-12 09:45:47,035 :INFO : test_home_page :b'Text received in app is \xc3\x97\nSuccess! The Form has been submitted successfully!.'
+2023-01-12 09:46:09,283 :INFO : test_home_page :Entering name as Name2
+2023-01-12 09:46:09,283 :INFO : test_home_page :Entering name as Name2
+2023-01-12 09:46:09,365 :INFO : test_home_page :Entering email as Email2
+2023-01-12 09:46:09,365 :INFO : test_home_page :Entering email as Email2
+2023-01-12 09:46:09,432 :INFO : test_home_page :Entering password as 1234
+2023-01-12 09:46:09,432 :INFO : test_home_page :Entering password as 1234
+2023-01-12 09:46:09,556 :INFO : test_home_page :Setting gender as Female
+2023-01-12 09:46:09,556 :INFO : test_home_page :Setting gender as Female
+2023-01-12 09:46:09,751 :INFO : test_home_page :b'Text received in app is \xc3\x97\nSuccess! The Form has been submitted successfully!.'
+2023-01-12 09:46:09,751 :INFO : test_home_page :b'Text received in app is \xc3\x97\nSuccess! The Form has been submitted successfully!.'
+2023-01-12 09:46:15,924 :INFO : test_e2e :getting all products list
+2023-01-12 09:46:16,189 :INFO : test_e2e :Entering country name
+2023-01-12 09:46:21,560 :INFO : test_e2e :b'Text received in app is \xc3\x97\nSuccess! Thank you! Your order will be delivered in next few weeks :-).'
+2023-01-12 09:47:27,585 :INFO : test_home_page :Entering name as Name1
+2023-01-12 09:47:27,660 :INFO : test_home_page :Entering email as Email1
+2023-01-12 09:47:27,723 :INFO : test_home_page :Entering password as 1234
+2023-01-12 09:47:27,829 :INFO : test_home_page :Setting gender as Male
+2023-01-12 09:47:27,992 :INFO : test_home_page :b'Text received in app is \xc3\x97\nSuccess! The Form has been submitted successfully!.'
+2023-01-12 09:47:51,675 :INFO : test_home_page :Entering name as Name2
+2023-01-12 09:47:51,675 :INFO : test_home_page :Entering name as Name2
+2023-01-12 09:47:51,756 :INFO : test_home_page :Entering email as Email2
+2023-01-12 09:47:51,756 :INFO : test_home_page :Entering email as Email2
+2023-01-12 09:47:51,821 :INFO : test_home_page :Entering password as 1234
+2023-01-12 09:47:51,821 :INFO : test_home_page :Entering password as 1234
+2023-01-12 09:47:51,936 :INFO : test_home_page :Setting gender as Female
+2023-01-12 09:47:51,936 :INFO : test_home_page :Setting gender as Female
+2023-01-12 09:47:52,128 :INFO : test_home_page :b'Text received in app is \xc3\x97\nSuccess! The Form has been submitted successfully!.'
+2023-01-12 09:47:52,128 :INFO : test_home_page :b'Text received in app is \xc3\x97\nSuccess! The Form has been submitted successfully!.'
+2023-01-12 09:47:59,202 :INFO : test_e2e :getting all products list
+2023-01-12 09:47:59,464 :INFO : test_e2e :Entering country name
+2023-01-12 09:48:04,818 :INFO : test_e2e :b'Text received in app is \xc3\x97\nSuccess! Thank you! Your order will be delivered in next few weeks :-).'
+2023-01-12 09:53:54,034 :INFO : test_home_page :Entering name as Name1
+2023-01-12 09:53:54,119 :INFO : test_home_page :Entering email as Email1
+2023-01-12 09:53:54,185 :INFO : test_home_page :Entering password as 1234
+2023-01-12 09:53:54,299 :INFO : test_home_page :Setting gender as Male
+2023-01-12 09:53:54,464 :INFO : test_home_page :Text received in app is Success!
+2023-01-12 09:53:58,492 :INFO : test_home_page :Entering name as Name2
+2023-01-12 09:53:58,492 :INFO : test_home_page :Entering name as Name2
+2023-01-12 09:53:58,563 :INFO : test_home_page :Entering email as Email2
+2023-01-12 09:53:58,563 :INFO : test_home_page :Entering email as Email2
+2023-01-12 09:53:58,627 :INFO : test_home_page :Entering password as 1234
+2023-01-12 09:53:58,627 :INFO : test_home_page :Entering password as 1234
+2023-01-12 09:53:58,735 :INFO : test_home_page :Setting gender as Female
+2023-01-12 09:53:58,735 :INFO : test_home_page :Setting gender as Female
+2023-01-12 09:53:58,920 :INFO : test_home_page :Text received in app is Success!
+2023-01-12 09:53:58,920 :INFO : test_home_page :Text received in app is Success!
+2023-01-12 09:54:05,830 :INFO : test_e2e :getting all products list
+2023-01-12 09:54:06,099 :INFO : test_e2e :Entering country name
+2023-01-12 09:54:11,469 :INFO : test_e2e :Text received in app is Success!
+2023-01-12 09:57:40,860 :INFO : test_home_page :Entering name as Name1
+2023-01-12 09:57:40,932 :INFO : test_home_page :Entering email as Email1
+2023-01-12 09:57:40,997 :INFO : test_home_page :Entering password as 1234
+2023-01-12 09:57:41,104 :INFO : test_home_page :Setting gender as Male
+2023-01-12 09:57:41,263 :INFO : test_home_page :Text received in app is Success!
+2023-01-12 09:57:47,504 :INFO : test_home_page :Entering name as Name2
+2023-01-12 09:57:47,504 :INFO : test_home_page :Entering name as Name2
+2023-01-12 09:57:47,577 :INFO : test_home_page :Entering email as Email2
+2023-01-12 09:57:47,577 :INFO : test_home_page :Entering email as Email2
+2023-01-12 09:57:47,645 :INFO : test_home_page :Entering password as 1234
+2023-01-12 09:57:47,645 :INFO : test_home_page :Entering password as 1234
+2023-01-12 09:57:47,760 :INFO : test_home_page :Setting gender as Female
+2023-01-12 09:57:47,760 :INFO : test_home_page :Setting gender as Female
+2023-01-12 09:57:47,963 :INFO : test_home_page :Text received in app is Success!
+2023-01-12 09:57:47,963 :INFO : test_home_page :Text received in app is Success!
+2023-01-12 09:57:53,767 :INFO : test_e2e :getting all products list
+2023-01-12 09:57:54,033 :INFO : test_e2e :Entering country name
+2023-01-12 09:57:59,351 :INFO : test_e2e :Text received in app is Success!
+2023-01-12 10:01:08,370 :INFO : test_home_page :Entering name as Name1
+2023-01-12 10:01:08,444 :INFO : test_home_page :Entering email as Email1
+2023-01-12 10:01:08,510 :INFO : test_home_page :Entering password as 1234
+2023-01-12 10:01:08,621 :INFO : test_home_page :Setting gender as Male
+2023-01-12 10:01:08,786 :INFO : test_home_page :Text received in app is Success!
+2023-01-12 10:01:14,947 :INFO : test_home_page :Entering name as Name2
+2023-01-12 10:01:14,947 :INFO : test_home_page :Entering name as Name2
+2023-01-12 10:01:15,031 :INFO : test_home_page :Entering email as Email2
+2023-01-12 10:01:15,031 :INFO : test_home_page :Entering email as Email2
+2023-01-12 10:01:15,096 :INFO : test_home_page :Entering password as 1234
+2023-01-12 10:01:15,096 :INFO : test_home_page :Entering password as 1234
+2023-01-12 10:01:15,211 :INFO : test_home_page :Setting gender as Female
+2023-01-12 10:01:15,211 :INFO : test_home_page :Setting gender as Female
+2023-01-12 10:01:15,409 :INFO : test_home_page :Text received in app is Success!
+2023-01-12 10:01:15,409 :INFO : test_home_page :Text received in app is Success!
+2023-01-12 10:01:22,745 :INFO : test_e2e :getting all products list
+2023-01-12 10:01:23,015 :INFO : test_e2e :Entering country name
+2023-01-12 10:02:41,305 :INFO : test_home_page :Entering name as Name1
+2023-01-12 10:02:41,387 :INFO : test_home_page :Entering email as Email1
+2023-01-12 10:02:41,458 :INFO : test_home_page :Entering password as 1234
+2023-01-12 10:02:41,568 :INFO : test_home_page :Setting gender as Male
+2023-01-12 10:02:41,733 :INFO : test_home_page :Text received in app is Success!
+2023-01-12 10:02:47,787 :INFO : test_home_page :Entering name as Name2
+2023-01-12 10:02:47,787 :INFO : test_home_page :Entering name as Name2
+2023-01-12 10:02:47,869 :INFO : test_home_page :Entering email as Email2
+2023-01-12 10:02:47,869 :INFO : test_home_page :Entering email as Email2
+2023-01-12 10:02:47,935 :INFO : test_home_page :Entering password as 1234
+2023-01-12 10:02:47,935 :INFO : test_home_page :Entering password as 1234
+2023-01-12 10:02:48,049 :INFO : test_home_page :Setting gender as Female
+2023-01-12 10:02:48,049 :INFO : test_home_page :Setting gender as Female
+2023-01-12 10:02:48,248 :INFO : test_home_page :Text received in app is Success!
+2023-01-12 10:02:48,248 :INFO : test_home_page :Text received in app is Success!
+2023-01-12 10:02:54,560 :INFO : test_e2e :getting all products list
+2023-01-12 10:02:54,826 :INFO : test_e2e :Entering country name
+2023-01-12 10:03:00,157 :INFO : test_e2e :Text received in app is Success!

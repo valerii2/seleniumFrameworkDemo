@@ -1,0 +1,5 @@
+[32mINFO    [0m test_home_page:test_HomePage.py:15 Entering name as Name1
+[32mINFO    [0m test_home_page:test_HomePage.py:17 Entering email as Email1
+[32mINFO    [0m test_home_page:test_HomePage.py:19 Entering password as 1234
+[32mINFO    [0m test_home_page:test_HomePage.py:22 Setting gender as Male
+[32mINFO    [0m test_home_page:test_HomePage.py:27 Text received in app is Success!

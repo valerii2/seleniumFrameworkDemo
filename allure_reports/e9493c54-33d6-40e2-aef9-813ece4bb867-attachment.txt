@@ -1,0 +1,3 @@
+[32mINFO    [0m test_e2e:test_e2e.py:14 getting all products list
+[32mINFO    [0m test_e2e:test_e2e.py:23 Entering country name
+[32mINFO    [0m test_e2e:test_e2e.py:30 Text received in app is Success!
