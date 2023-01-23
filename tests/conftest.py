@@ -16,7 +16,7 @@ def get_chrome_options():
     chrome_options = ChromeOptions()
     chrome_options.add_argument('chrome')    # use 'headless' if you don't need a browser UI / 'chrome' if UI need
     chrome_options.add_argument('--start-maximized')    # Starts the browser maximized, regardless of any previous settings
-    chrome_options.add_argument('--window-size=1920,1080')
+    # chrome_options.add_argument('--window-size=1920,1080')
     # chrome_options.add_experimental_option("detach", True)   # Keeps the browser open
     # chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])
     return chrome_options
